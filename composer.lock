@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "22573fcb9216a78a3f20cc1c69a17648",
+    "content-hash": "cc932d7335c32983a38307c4791d99f4",
     "packages": [
         {
             "name": "cebe/php-openapi",
@@ -129,6 +129,10 @@
                 }
             ],
             "description": "ClearFw",
+            "support": {
+                "issues": "https://github.com/oat-sa/clearfw/issues",
+                "source": "https://github.com/oat-sa/clearfw/tree/master"
+            },
             "time": "2019-02-15T10:59:35+00:00"
         },
         {
@@ -289,6 +293,10 @@
                 "psr-7",
                 "psr7"
             ],
+            "support": {
+                "issues": "https://github.com/dflydev/dflydev-fig-cookies/issues",
+                "source": "https://github.com/dflydev/dflydev-fig-cookies/tree/v2.0.3"
+            },
             "time": "2020-12-07T16:40:59+00:00"
         },
         {
@@ -357,6 +365,10 @@
                 "docblock",
                 "parser"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/annotations/issues",
+                "source": "https://github.com/doctrine/annotations/tree/v1.6.1"
+            },
             "time": "2019-03-25T19:12:02+00:00"
         },
         {
@@ -518,6 +530,10 @@
                 "iterators",
                 "php"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/collections/issues",
+                "source": "https://github.com/doctrine/collections/tree/1.6.7"
+            },
             "time": "2020-07-27T17:53:49+00:00"
         },
         {
@@ -610,6 +626,10 @@
                 "sqlserver",
                 "sqlsrv"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/dbal/issues",
+                "source": "https://github.com/doctrine/dbal/tree/2.10"
+            },
             "time": "2020-01-04T12:56:21+00:00"
         },
         {
@@ -686,6 +706,10 @@
                 "event system",
                 "events"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/event-manager/issues",
+                "source": "https://github.com/doctrine/event-manager/tree/1.1.x"
+            },
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -762,6 +786,10 @@
                 "parser",
                 "php"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/lexer/issues",
+                "source": "https://github.com/doctrine/lexer/tree/1.2.1"
+            },
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -861,6 +889,10 @@
                 "migrations",
                 "php"
             ],
+            "support": {
+                "issues": "https://github.com/doctrine/migrations/issues",
+                "source": "https://github.com/doctrine/migrations/tree/3.0.1"
+            },
             "funding": [
                 {
                     "url": "https://www.doctrine-project.org/sponsorship.html",
@@ -937,6 +969,12 @@
                 "rdfa",
                 "sparql"
             ],
+            "support": {
+                "forum": "http://groups.google.com/group/easyrdf/",
+                "irc": "irc://chat.freenode.net/easyrdf",
+                "issues": "http://github.com/njh/easyrdf/issues",
+                "source": "https://github.com/easyrdf/easyrdf/tree/0.9.1"
+            },
             "time": "2015-02-27T09:45:49+00:00"
         },
         {
@@ -985,6 +1023,10 @@
                 "event-dispatcher",
                 "event-emitter"
             ],
+            "support": {
+                "issues": "https://github.com/igorw/evenement/issues",
+                "source": "https://github.com/igorw/evenement/tree/master"
+            },
             "time": "2017-07-17T17:39:19+00:00"
         },
         {
@@ -1035,6 +1077,10 @@
             "keywords": [
                 "html"
             ],
+            "support": {
+                "issues": "https://github.com/ezyang/htmlpurifier/issues",
+                "source": "https://github.com/ezyang/htmlpurifier/tree/master"
+            },
             "time": "2020-06-29T00:56:53+00:00"
         },
         {
@@ -1076,6 +1122,10 @@
                 }
             ],
             "description": "JSONPath implementation for parsing, searching and flattening arrays",
+            "support": {
+                "issues": "https://github.com/FlowCommunications/JSONPath/issues",
+                "source": "https://github.com/FlowCommunications/JSONPath/tree/0.5.0"
+            },
             "abandoned": "softcreatr/jsonpath",
             "time": "2019-07-15T17:23:22+00:00"
         },
@@ -1130,6 +1180,10 @@
                 "log",
                 "logging"
             ],
+            "support": {
+                "issues": "https://github.com/fluent/fluent-logger-php/issues",
+                "source": "https://github.com/fluent/fluent-logger-php/tree/v1.0.1"
+            },
             "time": "2017-02-15T07:14:53+00:00"
         },
         {
@@ -1197,6 +1251,10 @@
                 "rest",
                 "web service"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle/issues",
+                "source": "https://github.com/guzzle/guzzle/tree/6.5"
+            },
             "time": "2020-06-16T21:01:06+00:00"
         },
         {
@@ -1359,6 +1417,10 @@
             "keywords": [
                 "LTI"
             ],
+            "support": {
+                "issues": "https://github.com/IMSGlobal/LTI-Tool-Provider-Library-PHP/issues",
+                "source": "https://github.com/IMSGlobal/LTI-Tool-Provider-Library-PHP/tree/3.0.2"
+            },
             "abandoned": true,
             "time": "2016-09-18T04:22:22+00:00"
         },
@@ -1427,7 +1489,133 @@
                 "json",
                 "schema"
             ],
+            "support": {
+                "issues": "https://github.com/justinrainbow/json-schema/issues",
+                "source": "https://github.com/justinrainbow/json-schema/tree/5.x.x"
+            },
             "time": "2017-05-16T21:06:09+00:00"
+        },
+        {
+            "name": "laminas/laminas-servicemanager",
+            "version": "2.5.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laminas/laminas-servicemanager.git",
+                "reference": "0cb6ae6b3025f3db2b91ab1936c5e0247b4db485"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laminas/laminas-servicemanager/zipball/0cb6ae6b3025f3db2b91ab1936c5e0247b4db485",
+                "reference": "0cb6ae6b3025f3db2b91ab1936c5e0247b4db485",
+                "shasum": ""
+            },
+            "require": {
+                "laminas/laminas-zendframework-bridge": "^1.0",
+                "php": ">=5.3.23"
+            },
+            "replace": {
+                "zendframework/zend-servicemanager": "self.version"
+            },
+            "require-dev": {
+                "fabpot/php-cs-fixer": "1.7.*",
+                "laminas/laminas-di": "~2.5",
+                "laminas/laminas-mvc": "~2.5",
+                "phpunit/phpunit": "~4.0"
+            },
+            "suggest": {
+                "laminas/laminas-di": "Laminas\\Di component",
+                "ocramius/proxy-manager": "ProxyManager 0.5.* to handle lazy initialization of services"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "2.5-dev",
+                    "dev-develop": "2.6-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Laminas\\ServiceManager\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "homepage": "https://laminas.dev",
+            "keywords": [
+                "laminas",
+                "servicemanager"
+            ],
+            "support": {
+                "chat": "https://laminas.dev/chat",
+                "docs": "https://docs.laminas.dev/laminas-servicemanager/",
+                "forum": "https://discourse.laminas.dev",
+                "issues": "https://github.com/laminas/laminas-servicemanager/issues",
+                "rss": "https://github.com/laminas/laminas-servicemanager/releases.atom",
+                "source": "https://github.com/laminas/laminas-servicemanager"
+            },
+            "time": "2019-12-31T17:44:09+00:00"
+        },
+        {
+            "name": "laminas/laminas-zendframework-bridge",
+            "version": "1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laminas/laminas-zendframework-bridge.git",
+                "reference": "6ede70583e101030bcace4dcddd648f760ddf642"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laminas/laminas-zendframework-bridge/zipball/6ede70583e101030bcace4dcddd648f760ddf642",
+                "reference": "6ede70583e101030bcace4dcddd648f760ddf642",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^5.6 || ^7.0 || ^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5 || ^8.1 || ^9.3",
+                "squizlabs/php_codesniffer": "^3.5"
+            },
+            "type": "library",
+            "extra": {
+                "laminas": {
+                    "module": "Laminas\\ZendFrameworkBridge"
+                }
+            },
+            "autoload": {
+                "files": [
+                    "src/autoload.php"
+                ],
+                "psr-4": {
+                    "Laminas\\ZendFrameworkBridge\\": "src//"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Alias legacy ZF class names to Laminas Project equivalents.",
+            "keywords": [
+                "ZendFramework",
+                "autoloading",
+                "laminas",
+                "zf"
+            ],
+            "support": {
+                "forum": "https://discourse.laminas.dev/",
+                "issues": "https://github.com/laminas/laminas-zendframework-bridge/issues",
+                "rss": "https://github.com/laminas/laminas-zendframework-bridge/releases.atom",
+                "source": "https://github.com/laminas/laminas-zendframework-bridge"
+            },
+            "funding": [
+                {
+                    "url": "https://funding.communitybridge.org/projects/laminas-project",
+                    "type": "community_bridge"
+                }
+            ],
+            "time": "2020-09-14T14:23:00+00:00"
         },
         {
             "name": "lcobucci/jwt",
@@ -1684,6 +1872,10 @@
                 "adapter",
                 "memory"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/flysystem-memory/issues",
+                "source": "https://github.com/thephpleague/flysystem-memory/tree/1.0.2"
+            },
             "time": "2019-05-30T21:34:13+00:00"
         },
         {
@@ -1870,6 +2062,10 @@
                 "psr7",
                 "validation"
             ],
+            "support": {
+                "issues": "https://github.com/thephpleague/openapi-psr7-validator/issues",
+                "source": "https://github.com/thephpleague/openapi-psr7-validator/tree/master"
+            },
             "time": "2020-06-12T10:28:04+00:00"
         },
         {
@@ -1999,6 +2195,10 @@
                 "semver",
                 "versioning"
             ],
+            "support": {
+                "issues": "https://github.com/naneau/semver/issues",
+                "source": "https://github.com/naneau/semver/tree/get_original_version"
+            },
             "time": "2013-01-04T00:00:00+00:00"
         },
         {
@@ -2134,6 +2334,10 @@
                 "router",
                 "routing"
             ],
+            "support": {
+                "issues": "https://github.com/nikic/FastRoute/issues",
+                "source": "https://github.com/nikic/FastRoute/tree/master"
+            },
             "time": "2018-02-13T20:26:39+00:00"
         },
         {
@@ -3828,16 +4032,16 @@
         },
         {
             "name": "oat-sa/extension-tao-testqti",
-            "version": "v40.3.12",
+            "version": "40.3.12.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/oat-sa/extension-tao-testqti.git",
-                "reference": "68731a199abe4fc512178412f89c67705b672c98"
+                "reference": "94d08e354e14b51a851a4a6b47c8bea45b0b8d8d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/oat-sa/extension-tao-testqti/zipball/68731a199abe4fc512178412f89c67705b672c98",
-                "reference": "68731a199abe4fc512178412f89c67705b672c98",
+                "url": "https://api.github.com/repos/oat-sa/extension-tao-testqti/zipball/94d08e354e14b51a851a4a6b47c8bea45b0b8d8d",
+                "reference": "94d08e354e14b51a851a4a6b47c8bea45b0b8d8d",
                 "shasum": ""
             },
             "require": {
@@ -3910,7 +4114,7 @@
                 "TAO",
                 "computer-based-assessment"
             ],
-            "time": "2021-01-20T12:44:17+00:00"
+            "time": "2021-09-08T10:11:19+00:00"
         },
         {
             "name": "oat-sa/extension-tao-testqti-previewer",
@@ -4175,6 +4379,9 @@
                 }
             ],
             "description": "Jig PHP Utilities",
+            "support": {
+                "source": "https://github.com/oat-sa/jig/tree/master"
+            },
             "time": "2015-07-29T12:04:19+00:00"
         },
         {
@@ -4223,6 +4430,9 @@
                 "math parser",
                 "shunting-yard algorithm"
             ],
+            "support": {
+                "source": "https://github.com/oat-sa/lib-beeme/tree/master"
+            },
             "time": "2016-11-03T16:25:18+00:00"
         },
         {
@@ -4256,6 +4466,10 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Library provide an object search API",
+            "support": {
+                "issues": "https://github.com/oat-sa/lib-generis-search/issues",
+                "source": "https://github.com/oat-sa/lib-generis-search/tree/V2.1.2"
+            },
             "time": "2020-05-06T12:52:35+00:00"
         },
         {
@@ -4360,6 +4574,11 @@
                 "ms",
                 "time"
             ],
+            "support": {
+                "forum": "http://forum.taotesting.com",
+                "issues": "https://github.com/oat-sa/lib-tao-dtms/issues",
+                "source": "https://github.com/oat-sa/lib-tao-dtms/tree/master"
+            },
             "time": "2018-02-19T14:54:02+00:00"
         },
         {
@@ -4470,6 +4689,11 @@
                 "TAO",
                 "computer-based-assessment"
             ],
+            "support": {
+                "forum": "http://forum.taotesting.com",
+                "issues": "http://forge.taotesting.com",
+                "source": "https://github.com/oat-sa/lib-test-cat/tree/master"
+            },
             "time": "2018-08-02T11:59:59+00:00"
         },
         {
@@ -4526,6 +4750,11 @@
                 "computer-based-assessment",
                 "oatbox"
             ],
+            "support": {
+                "forum": "http://forum.taotesting.com",
+                "issues": "http://forge.taotesting.com",
+                "source": "https://github.com/oat-sa/oatbox-extension-installer/tree/v1.2"
+            },
             "time": "2020-10-26T11:52:04+00:00"
         },
         {
@@ -4752,6 +4981,10 @@
                 "proxy pattern",
                 "service proxies"
             ],
+            "support": {
+                "issues": "https://github.com/Ocramius/ProxyManager/issues",
+                "source": "https://github.com/Ocramius/ProxyManager/tree/2.2.x"
+            },
             "time": "2019-08-10T08:37:15+00:00"
         },
         {
@@ -4900,6 +5133,10 @@
                     "email": "mike.vanriel@naenius.com"
                 }
             ],
+            "support": {
+                "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
+                "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/release/2.x"
+            },
             "time": "2016-01-25T08:17:30+00:00"
         },
         {
@@ -5101,6 +5338,9 @@
                 "psr",
                 "psr-6"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/cache/tree/master"
+            },
             "time": "2016-08-06T20:24:11+00:00"
         },
         {
@@ -5252,6 +5492,9 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/master"
+            },
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
@@ -5305,6 +5548,10 @@
                 "response",
                 "server"
             ],
+            "support": {
+                "issues": "https://github.com/php-fig/http-server-handler/issues",
+                "source": "https://github.com/php-fig/http-server-handler/tree/master"
+            },
             "time": "2018-10-30T16:46:14+00:00"
         },
         {
@@ -5358,6 +5605,10 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "issues": "https://github.com/php-fig/http-server-middleware/issues",
+                "source": "https://github.com/php-fig/http-server-middleware/tree/master"
+            },
             "time": "2018-10-30T17:12:04+00:00"
         },
         {
@@ -5453,6 +5704,9 @@
                 "psr-16",
                 "simple-cache"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/simple-cache/tree/master"
+            },
             "time": "2017-10-23T01:57:42+00:00"
         },
         {
@@ -5552,6 +5806,10 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
@@ -5639,6 +5897,12 @@
                 "identifier",
                 "uuid"
             ],
+            "support": {
+                "issues": "https://github.com/ramsey/uuid/issues",
+                "rss": "https://github.com/ramsey/uuid/releases.atom",
+                "source": "https://github.com/ramsey/uuid",
+                "wiki": "https://github.com/ramsey/uuid/wiki"
+            },
             "time": "2020-02-21T04:36:14+00:00"
         },
         {
@@ -5681,6 +5945,10 @@
                 "process",
                 "reactphp"
             ],
+            "support": {
+                "issues": "https://github.com/reactphp/child-process/issues",
+                "source": "https://github.com/reactphp/child-process/tree/v0.5.2"
+            },
             "time": "2018-01-18T14:53:06+00:00"
         },
         {
@@ -5832,6 +6100,10 @@
                 "validation",
                 "validator"
             ],
+            "support": {
+                "issues": "https://github.com/Respect/Validation/issues",
+                "source": "https://github.com/Respect/Validation/tree/1.1.31"
+            },
             "time": "2019-05-28T06:10:06+00:00"
         },
         {
@@ -5884,6 +6156,10 @@
                 "multipart",
                 "parser"
             ],
+            "support": {
+                "issues": "https://github.com/Riverline/multipart-parser/issues",
+                "source": "https://github.com/Riverline/multipart-parser/tree/2.0.8"
+            },
             "time": "2020-01-24T09:39:24+00:00"
         },
         {
@@ -5933,6 +6209,10 @@
                 "operating system",
                 "os"
             ],
+            "support": {
+                "issues": "https://github.com/sinergi/php-browser-detector/issues",
+                "source": "https://github.com/sinergi/php-browser-detector/tree/6.1.3"
+            },
             "time": "2020-10-29T15:55:28+00:00"
         },
         {
@@ -6006,6 +6286,10 @@
                 "micro",
                 "router"
             ],
+            "support": {
+                "issues": "https://github.com/slimphp/Slim/issues",
+                "source": "https://github.com/slimphp/Slim/tree/3.x"
+            },
             "time": "2019-11-28T17:40:33+00:00"
         },
         {
@@ -6204,6 +6488,9 @@
                 "redlock",
                 "semaphore"
             ],
+            "support": {
+                "source": "https://github.com/symfony/lock/tree/v3.4.47"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -6587,6 +6874,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php70/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -7304,6 +7594,14 @@
                 "code",
                 "zf"
             ],
+            "support": {
+                "chat": "https://zendframework-slack.herokuapp.com",
+                "docs": "https://docs.zendframework.com/zend-code/",
+                "forum": "https://discourse.zendframework.com/c/questions/components",
+                "issues": "https://github.com/zendframework/zend-code/issues",
+                "rss": "https://github.com/zendframework/zend-code/releases.atom",
+                "source": "https://github.com/zendframework/zend-code"
+            },
             "abandoned": "laminas/laminas-code",
             "time": "2019-12-10T19:21:15+00:00"
         },
@@ -7359,59 +7657,12 @@
                 "events",
                 "zf2"
             ],
+            "support": {
+                "issues": "https://github.com/zendframework/zend-eventmanager/issues",
+                "source": "https://github.com/zendframework/zend-eventmanager/tree/master"
+            },
             "abandoned": "laminas/laminas-eventmanager",
             "time": "2018-04-25T15:33:34+00:00"
-        },
-        {
-            "name": "zendframework/zend-servicemanager",
-            "version": "2.5.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/zendframework/zend-servicemanager.git",
-                "reference": "3b22c403e351d92526c642cba0bd810bc22e1c56"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/zendframework/zend-servicemanager/zipball/3b22c403e351d92526c642cba0bd810bc22e1c56",
-                "reference": "3b22c403e351d92526c642cba0bd810bc22e1c56",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.3.23"
-            },
-            "require-dev": {
-                "fabpot/php-cs-fixer": "1.7.*",
-                "phpunit/phpunit": "~4.0",
-                "zendframework/zend-di": "~2.5",
-                "zendframework/zend-mvc": "~2.5"
-            },
-            "suggest": {
-                "ocramius/proxy-manager": "ProxyManager 0.5.* to handle lazy initialization of services",
-                "zendframework/zend-di": "Zend\\Di component"
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "2.5-dev",
-                    "dev-develop": "2.6-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Zend\\ServiceManager\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "homepage": "https://github.com/zendframework/zend-servicemanager",
-            "keywords": [
-                "servicemanager",
-                "zf2"
-            ],
-            "abandoned": "laminas/laminas-servicemanager",
-            "time": "2015-06-03T15:32:02+00:00"
         }
     ],
     "packages-dev": [],
